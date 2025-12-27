@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Model Weights (Too large for Git)
+*.pth
+
+# Environments
+.env
+venv/
